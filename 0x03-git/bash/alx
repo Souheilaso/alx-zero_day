@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "ALX School is so cool!"
+echo "This file was updated in the update_script branch"
+
